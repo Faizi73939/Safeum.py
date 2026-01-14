@@ -95,6 +95,7 @@ while True:
         def fuck():
     print("\n[✓] Target reached. Program stopped safely.")
     sys.exit()
+    
         print("Created Accounts Successfully Sent To Owner Group")
 
     if int(success) > int(0):
