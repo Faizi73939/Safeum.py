@@ -92,9 +92,9 @@ while True:
         failed) + '\n\n\n' + ' ' * 25 + 'ReTry : ' + str(retry))
     hh = str(failed) + str(success) + str(retry)
     if int(success) >= 50:
-        def fuck():
-    print("\n[✓] Target reached. Program stopped safely.")
-    sys.exit()
+    #    def fuck():
+#    print("\n[✓] Target reached. Program stopped safely.")
+#    sys.exit()
     
         print("Created Accounts Successfully Sent To Owner Group")
 
